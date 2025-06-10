@@ -3,7 +3,7 @@
 > Created by Alan Bushell
 
 
-![wireframe](assets/docs/amiresponsive.pngamiresponsive.png)
+![wireframe](assets/docs/amiresponsive.png)
 
 
 #### WireFrame -
